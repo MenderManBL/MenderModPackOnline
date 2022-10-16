@@ -1,0 +1,2 @@
+(From June 2012)
+Spleef is a multiplayer battle arena where the goal is to make your opponents fall into a pit of lava by breaking the floor below them with shovels. The last person standing is the winner!

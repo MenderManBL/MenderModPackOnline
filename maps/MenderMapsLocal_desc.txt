@@ -1,0 +1,3 @@
+All the maps that come with MenderMan's Mod Pack.
+This is the folder where the maps are localized.
+**THESE CANNOT BE HOSTED UNLESS THE PEOPLE JOINING THE SERVER ALSO DOWNLOAD THE MENDERMODPACK ASSETS FOLDER**

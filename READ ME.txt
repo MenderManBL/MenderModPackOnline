@@ -1,0 +1,275 @@
+**SINCE ALL THE ASSETS ARE LOCALIZED: YOU MUST HAVE OTHERS DOWNLOAD THE ASSETS IN ORDER FOR THEM TO SEE THE ASSETS ONLINE!**
+
+Most maps, if possible, are sorted in the folders by what version they are (if the version came out in 2010, it will be in the 2010 folder). If the version is unknown, the maps are place in the year that they were released.
+
+#----CREDITS----#
+Most of the maps come from esz's Roblox Place Archive v2.4.3 and Rchive
+Huge thanks to XiaoXiaoMan for releasing his own places
+Train Crashing: dietz nuts#5470
+2012 Thrillville and JJ5x5's house: parallel#2817
+FixMaterial code for 2009MS: @enuf#9253 and @LockedGamer#1914
+
+#----MAP LIST----#
+2006
+	BlankArena's Place
+	Crossroads (August)
+	Crossroads (Late 2006)
+	Crossroads (Original)
+	Grey City
+	Haunted Mansion (Fixed)
+	L&L APT
+	Lawrence Yamut's Place
+	SharkRock Island  (Fixed)
+	The Big Slide's Place
+	TrainCrasher's Place
+2007
+	AIRPORT
+	Baseplate
+	BE CRUSHED BY A SPEEDING WALL
+	BrickBattle: Medieval Mayhem
+	Dodge The Teapots of Doom!
+	Down Hill Extreme
+	Escape the School!!!
+	Fantasy Kingdom
+	Filming roblox movie
+	Fleskhjerta Production Studio Redone V.11
+	Glass Houses (Fixed)
+	Happy Home in Robloxia
+	LuigiFan's Airport
+	Miked labs
+	Mini Robloxia
+	Minigame World 0.75
+	Mission to the Moon
+	Pirates of the Robloxian: Cold Coast
+	Plane Crashing
+	Rainbow Road 1.5
+	ROBLOX World Headquarters
+	Robloxia's Last Stand
+	Robloxopolis
+	Six Flags,Great America
+	Ski Center
+	Stairway to Heaven
+	Super Mario 64
+	The Cursed House (RSBC)
+	The Killer ROLLER COASTER!!
+	Thrillville V3.99-8
+	Train Crashing
+	Zombies!
+2008
+	Autumn
+	Balance
+	Become a Cyborg!
+	Boat Wars
+	Builderman's Vacation Sim! Relax to survive!
+	Crossroads
+	Down Hill Smash!
+	Fencing
+	Happy Home in Robloxia
+	Moon Base CTF
+	paintball
+	Plane Destroyer
+	PoolComplex
+	ROBLOX World Headquarters
+	Rock Throw!
+	Starting Brickbattle Map
+	Super Slide World!!
+	Work at the krusty Krab's
+2009
+	Belmont Mountain
+	Chaos Canyon
+	Crossroads (Winter)
+	Eagles Castle
+	Happy Home in Robloxia (Winter)
+	Happy Home in Robloxia
+	Meng Moutain Retreat
+	Minigame Mania
+	Roblox Laundromat
+	The Underground War
+	Truckers and teens 3
+2010
+	2007 Simulation
+	A Bridge too far
+	Crossroads
+	Jail Break
+	JAWS
+	Make a Cake and Feed the Giant Noob
+	Ninja Temple Training Dojo
+	Underground Base
+	XiaoXiaoMan's Team Fortress 2
+	Zeke and Luther's SkatePark
+2011
+	Block Town
+	Feed the Giant Noob or Get Eaten
+	Happy Home in Robloxia
+2012
+	CrazyRobloxians Neighborhood
+	Hide n' Seek XL Living Spaces
+	JJ5x5's House
+	Spleef
+	Survive the Tsunami
+	The Complex V4
+	Thrillville
+	Titanic (Modernnathanboy01)
+2013
+	Dry Bones Arcade
+Enhanced:
+	Survive the Spheres Deluxe
+	Train Crashing Deluxe
+Misc
+	Baseplate512 but Fucked Up
+	Old Models
+	Sinking Ship
+	The Backrooms
+	
+#----CHANGELOG----#
+v1.6 (The Cleanup Update)
+- FINALLY a mid 2009 client!!!
+	- Huge thanks to Natalie on the Roblox Client Search discord for telling me the solution
+	- Also huge thanks to Bitl for putting up with my constant questions lmao
+- Clients in general have been patched to higher standards (if you'd like to know how, check #modding in the Novetus discord)
+- Every single place has been reconverted and fixed
+	- Now there are two versions of the modpack, one with redirects and one with assets
+	- So many places have had their versions swapped around I'm not listing them here
+	- Needless to say, this update is mega not compatible with previous versions
+- Added 2007 - ROBLOX World Headquarters
+	- This is the one with two buildings instead of just one
+- Added 2009 - Belmont Mountain
+- Added 2012 - Survive the Tsunami
+- Added 2012 - The Complex V4
+- Moved ROBLOX World Headquarters to 2007
+- Moved Builderman's Vacation Sim! to 2008 and renamed it Builderman's Vacation Sim! Relax to survive!
+- Moved Jail Break to 2010
+- Moved Ninja Temple Training Dojo to 2010
+- Moved CrazyRobloxians Neighborhood! to 2012
+- Renamed 2010 - 2fort to 2010 - XiaoXiaoMan's Team Fortress 2
+- Removed 2006 - Haunted Mansion (Fixed)
+- Removed 2007 - Mustafar
+- Removed 2008 - Be Crushed By A Speeding Wall
+- Removed 2008 - Plane Crash (Localized)
+- Removed 2008 - Titanic
+- Removed 2009 - Pipe Riding (Localized)
+- Removed 2016 - Demolition Derby (Localized)
+
+v1.5 (The Anti-assetcache Update)
+- All games have been updated to draw assets from a new folder, MenderModPack, instead of assetcache
+	- This means that previous versions of this modpacks are incompatible with this one (maps wise)
+- Added 2009MS (Mid 2009 Simulation), a modified 2010L client to look like mid 2009
+	- The next best thing (I cannot get any 2009 clients to work, at all)
+- Added 2007 - Minigame World 0.75
+- Added 2008 - Fencing
+- Added 2008 - paintball
+- Added 2009 - Eagles Castle
+- Added 2009 - Minigame Mania (This one was a pain to fix)
+- Added 2009 - Pipe Riding (Localized)
+- Added 2009 - Roblox Laundromat
+- Added 2009 - The Underground War
+	- I felt like including this because the one included with Novetus isn't localized, and it seems to have been a server rip. This is an actual place file from 2009 (The Underground War wasn't made until early 2009, beforehand it was Boat Wars).
+- Added 2009 - Truckers and teens 3
+- Added 2011 - Happy Home in Robloxia
+- Added 2012 - Spleef
+- Added Enhanced - Train Crashing Deluxe
+	- Finally here after 5 updates!
+- Swapped 2008 - Boat Wars with a different version
+- Moved Chaos Canyon to 2009
+- Moved A Bridge too far to 2010
+	- Version included in here is from 2010
+- Fixed the RPG in 2007 - Stairway to Heaven
+- Fixed 2008 - Become a Cyborg
+- Fixed 2009 - Happy Home in Robloxia
+	- For some reason I never localized this place, and it still used epicgamers.xyz
+- Fixed 2010 - Make a Cake and Feed the Giant Noob
+	- Fixed most of the shop
+	- Added the "Step on the red button to make the noob bald!" button back
+- Removed 2009 - Build Your Own Game
+- Removed 2009 - Noobland 2 (Broken)
+- Added a bunch of 2007 t-shirts not already added
+	- First clothes added so far!
+
+v1.4 (The Client Update)
+- Added Early and Late 2008 clients (this is now a modpack)
+- Added 2006 - BlankArena's Place
+- Added 2006 - TrainCrasher's Place
+- Added 2008 - Plane Crash (Localized)
+- Added 2008 - Plane Destroyer
+	- Recreation of an old ROBLOX video from mid 2008
+- Added 2008 - Super Slide World!!
+- Updated 2007 - Rock Throw! to the latest 2008 version I could find, and moved it to 2008
+- Added 2010 - Zeke and Luther's SkatePark
+- Moved Haunted Mansion (Fixed) to 2006
+- Labelled Demolition Derby localized and moved it to 2016
+- Removed 2008 - The Undead Coming v1.2 since it is localized in Novetus as of 1.3 v6.2022.1
+	- I localized these places before I realized they came with Novetus
+
+v1.3 (The 2006/2007 Update)
+~~~ 2006 Places ~~~
+- Added L&L APT
+- Added SharkRock Island
+- Replaced Grey City with the actual rbxl file 
+- The Big Slide's Place tools fixed for 2006S
+- Original Crossroads tools fixed for 2006S
+~~~ 2007 Places ~~~
+- Added AIRPORT
+- Added BE CRUSHED BY A SPEEDING WALL (Different than the 2008 version)
+- Added Fantasy Kingdom
+- Added Filming roblox movie
+	- This is the set from the 2007 video "Roblox movie masked killer"
+- Added Glass Houses (Fixed)
+- Added LuigiFan's Airport
+- Added Pirates of the Robloxian: Cold Coast
+- Added Plane Crashing
+	- This is the little known "sequel" to Train Crashing
+- Added Rainbow Road 1.5
+- Added Robloxia's Last Stand
+- Added Robloxopolis
+	- Note that the Trowel tool is broken and I do not know why
+- Added Rock Throw!
+- Added Six Flags,Great America
+- Added Ski Center
+- Added Stairway to Heaven
+	- Allegedly the 2007 version was lost, but I managed to find it
+- Added Super Mario 64
+- Added The Cursed House (RBSC)
+- Moved Train Crashing to 2007
+	- Despite what the ROBLOX website says, the Wayback Machine clearly shows the game on the front page in August and October 2007
+- Moved Dodge the Teapots of Doom to 2007 and replaced it with an actual version from 2007
+- Moved Mini Robloxia to 2007 and replaced it with a version that actually works
+- Added description to Down Hill Extreme
+- Added description to Escape the School!!!
+	- Also corrected the title from "Escape the School" to "Escape the School!!!"
+- Added description specifying that the Mustafar version included is from May 2007
+- Added description to Zombies!
+	- Also corrected the title from "Zombie!" to "Zombies!"
+~~~ 2008+ Places ~~~
+- Added Moon Base CTF
+- Added PoolComplex
+- Added Work at the krusty Krab's
+	- Extremely early version of Work at a Pizza Place
+- Added 2012 - Titanic (Modernnathanboy01)
+	- Copy of a Titanic game I made back in 2012 around the 100th anniversary, on my alt. Added because of the recent 110th anniversary
+
+v1.2
+- Added Lawrence Yamut's Place
+- Added Down Hill Extreme
+- Added The Killer ROLLER COASTER!!
+- Added the ACTUAL 2008 Crossroads
+	- Moved the previous Crossroads file to 2010, since that's the version after it was reverted from Zeke and Luther's Skatepark
+- Added Dodge the Teapots of Doom (2008 version)
+- Added Mini Robloxia
+- Added The Undead Coming v1.3
+- Added Make a Cake and Feed the Giant Noob
+- Added Baseplate512 but Fucked Up
+- Moved Grey City to 2006
+	- The original place on the website says January 2007, but it was featured in the 2006 ROBLOX trailer
+- Moved 2Fort to 2010
+	- Most scripts only work in exclusively 2010L and not in any mid/late 2009 clients
+- Disabled the ragdoll script in 2Fort until I can figure out how to fix it
+	- Right now once you die, you never respawn since the ragdoll never disappears
+
+v1.1
+- Fixed Hide n' Seek XL Living Spaces for multiplayer
+- Moved Hide n' Seek XL Living Spaces to the 2012 folder since it's technically not enhanced
+- Removed Enhanced - Train Crashing since it is unfinished and I forgot to remove it
+	- More trains were meant to be added, it will be back in a later update
+
+v1.0
+- Release

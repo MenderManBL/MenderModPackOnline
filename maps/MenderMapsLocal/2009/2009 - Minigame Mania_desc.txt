@@ -1,0 +1,1 @@
+Chat "reset minigames" (no quotes) to vote to reset the games. Select the spectate tool to stop playing minigames while you're in the lobby. Some minigames are based off of a famous Nintendo-party-game-chain. Chat "reset" (no quotes) to quit a minigame.

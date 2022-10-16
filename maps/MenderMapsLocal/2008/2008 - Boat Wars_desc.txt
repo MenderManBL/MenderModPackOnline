@@ -1,0 +1,1 @@
+Press y to make boats go and xyx to make them stop. Say "green", "red" or "blue" to regenerate the boats.
